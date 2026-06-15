@@ -15,7 +15,3 @@ Last updated: 2026-06-15
 | 9 | Josh Braun | YouTube + LinkedIn | youtube.com/@JoshBraun | B2B sales conversation frameworks | Weekly videos + "Badass B2B Growth Guide" — strong example of consistent, short-format practitioner content. |
 | 10 | Alex Hormozi | YouTube | youtube.com/@AlexHormozi | Sales & business strategy (cross-industry) | Not SaaS-exclusive, but frequently cited by SaaS founders for sales/offer frameworks; useful for studying high-retention long-form structure. |
 
-## Notes
-- Sources compiled from creator-directory articles (Feedspot, Medium, vidpros, jonathanrintala.com) as of Apr-May 2026 — verify current channel activity before final selection.
-- "Practitioner" filter applied: all run/ran an actual SaaS business or active B2B sales/marketing practice, not purely commentary accounts.
-- Next step: run `scripts/fetch_youtube.py` to pull latest video metadata + transcripts per channel, and a LinkedIn export/scraper for posts (see `scripts/README.md`).
